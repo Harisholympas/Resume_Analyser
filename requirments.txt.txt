@@ -1,0 +1,6 @@
+Flask
+spacy
+pymupdf
+sentence-transformers
+torch
+transformers
